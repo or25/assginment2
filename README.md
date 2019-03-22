@@ -1,8 +1,4 @@
 # assginment2 at Mini Project: Topics in Robotics
-
-By Or Liebembuk - 318896485
-Guy Landoy  - 209494541
-
 At the folder project2 there is all the files needed, but in any case we added the turtlebot files as well.
 
 How to run the project:
